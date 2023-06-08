@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.155c3721.css",
+    "main.js": "/static/js/main.0600d4cd.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/stock-vector-vinyl-record-icon-vector-illustration-1704642502-removebg-preview.png": "/static/media/stock-vector-vinyl-record-icon-vector-illustration-1704642502-removebg-preview.423e6f709bbb78c3b919.png",
+    "index.html": "/index.html",
+    "main.155c3721.css.map": "/static/css/main.155c3721.css.map",
+    "main.0600d4cd.js.map": "/static/js/main.0600d4cd.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.155c3721.css",
+    "static/js/main.0600d4cd.js"
+  ]
+}
