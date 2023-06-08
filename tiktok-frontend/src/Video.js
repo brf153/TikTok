@@ -21,7 +21,7 @@ const Video = ({src, channel, description, song, likes, shares, messages}) => {
   return (
 
     <div className='video'>
-        <video ref={videoRef} onClick={handleVideoPress} loop className='video__player' muted autoPlay src={src}/>
+        <video ref={videoRef} onClick={handleVideoPress} loop className='video__player' autoPlay muted src={src}/>
         {/* VideoFooter */}
         <VideoFooter channel={channel} description={description} song={song}/>
         {/* VideoSidebar */}
